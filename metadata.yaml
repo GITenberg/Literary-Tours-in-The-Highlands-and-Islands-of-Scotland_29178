@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33741'
     url: http://www.gutenberg.org/2009/agents/33741
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29178#Literary-Tours-in-The-Highlands-and-Islands-of-Scotland
 gutenberg_issued: '2009-06-20'
 gutenberg_type: Text
 identifiers:
